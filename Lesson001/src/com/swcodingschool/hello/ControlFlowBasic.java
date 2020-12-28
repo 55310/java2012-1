@@ -3,7 +3,7 @@ package com.swcodingschool.hello;
  * 프로그램의 기본 제어 구조 설명
  * 순차제어구조, 조건제어구조, 반복제어구조
  */
-public class BasicControlFlow {
+public class ControlFlowBasic {
 
 	public static void main(String[] args) {
 		// 시간에 따른 일과 진행을 예로 들어 순차구조를 설명한다.
