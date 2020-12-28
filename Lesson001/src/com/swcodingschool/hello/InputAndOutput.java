@@ -12,8 +12,16 @@ package com.swcodingschool.hello;
 public class InputAndOutput {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//printing variables and literals
+		double number = -10.6;
+		
+		System.out.println(5);
+		System.out.println(number);
+		
+		// print concatenated strings
+		System.out.println("와우.. " + "좀 놀랍군...");
+		System.out.println("숫자 : " + number);
 
-	}
+	} //end of main
 
-}
+}//end of class
