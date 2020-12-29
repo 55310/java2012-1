@@ -52,6 +52,5 @@ public class DataTypes {
 		System.out.println(shortint);
 		
 		
-		
 	}// end of main
 }// end of class
