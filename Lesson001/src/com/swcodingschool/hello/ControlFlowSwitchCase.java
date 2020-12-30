@@ -15,9 +15,9 @@ public class ControlFlowSwitchCase {
 
 	public static void main(String[] args) {
 		// 필요한 변수 선언
-		String winner = "";
+		String winner = "";           //Reference Datatype
 		Random  rd = new Random();    // random number
-		int comGame = rd.nextInt(2)+1; // 0~2사이의 수 생성 + 1 : 1~3사이의 수 생성
+		int comGame = rd.nextInt(2) + 1; // 0~2사이의 수 생성 + 1 : 1~3사이의 수 생성
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("★★★ 컴퓨터와 가위 바위 보 게임 ★★★");
