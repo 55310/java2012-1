@@ -13,7 +13,7 @@ public class Quiz1ConditionalStmt {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		
 	}
 
 }

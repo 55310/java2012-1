@@ -16,7 +16,7 @@ public class ExSequentialFlow {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("변환하고자 하는 섭씨 온도를 입력하세요 : ");
 		double temperatureC = sc.nextDouble();
-		double temperatureF = (double)temperatureC * 1.8 + 32;
+		double temperatureF = temperatureC * 1.8 + 32;
 		System.out.printf("%5.1f Celsus is %5.1f", temperatureC, temperatureF);
 		sc.close();
 		System.out.println("프로그램을 종료합니다.");
